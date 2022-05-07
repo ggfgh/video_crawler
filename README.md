@@ -7,7 +7,7 @@
 * 建议python版本>= 3.7
 * 安装依赖项
 pip install -r requirement.txt
-* 由于是在windows环境下开发的，经过测试无法在linux环境下正常整合视频，需要通过ffmpeg来整合ts视频文件，后续有空会进行linux下的适配
+* 由于是在windows环境下开发的，整合视频是通过copy命令实现的，经过测试无法在linux环境下正常整合视频，需要通过ffmpeg来整合ts视频文件，后续有空会进行linux下的适配
 * 参数说明
 ```
 -i -id          指定视频最后的id, 如16034

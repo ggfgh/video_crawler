@@ -4,8 +4,7 @@
 * 视频的清晰度由爬取的原视频清晰度决定
 
 ## 使用说明
-* 建议python版本
-python >= 3.7
+* 建议python版本>= 3.7
 * 安装依赖项
 pip install -r requirement.txt
 * 参数

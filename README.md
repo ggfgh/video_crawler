@@ -19,9 +19,11 @@ Example: python video_crawler.py -i 16034
 
 ![图片](https://user-images.githubusercontent.com/71026994/167248576-57415a77-8327-4f0c-bd5e-20579d7b24b1.png)
 <p align="center">帮助信息</p>
-![图片](https://user-images.githubusercontent.com/71026994/167249151-6795ed54-364d-4017-a9c3-e11b9cc90d0c.png)
+![图片](https://user-images.githubusercontent.com/71026994/167249378-afec1a6d-bbc9-449b-9642-6c61797e11de.png)
+
 <p align="center">下载视频的片段(ts文件)中</p>
-![图片](https://user-images.githubusercontent.com/71026994/167249160-e1996ef6-4d8d-44d8-8f5a-874e54b2b695.png)
+![图片](https://user-images.githubusercontent.com/71026994/167249397-472fe36e-f541-406b-822d-6033c394f788.png)
+
 <p align="center">利用bat的copy命令实现的ts整合为mp4</p>
 
 ## 补充

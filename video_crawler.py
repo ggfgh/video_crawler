@@ -46,8 +46,5 @@ def main():
         sys.exit("Exit")
         
 if __name__ == '__main__':
-    start = time.time()
     main()
-    end = time.time()
-    cost = end - start
     print("\033[0;32m[%s DONE] Video Address: %s\033[0m" %(output.nowtime(),config.video_path))

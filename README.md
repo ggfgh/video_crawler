@@ -7,7 +7,7 @@
 * 建议python版本>= 3.7
 * 安装依赖项
 pip install -r requirement.txt
-* 参数
+* 参数说明
 ```
 -i -id          指定视频最后的id, 如16034
 -t --threads    爬取的线程数，默认20
